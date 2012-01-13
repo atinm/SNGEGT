@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="sngegt">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\miika\Desktop\stars\sngegt.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\miika\Desktop\stars\sngegt.suo">
+</Property><Property Name="Date" Value="11. kesäkuuta 2008">
+</Property><Property Name="Time" Value="22:43">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="sngegt.sln" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\sngegt.sln">
+</Event><Event ErrorLevel="0" Project="" Source="sngegt.suo" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\sngegt.suo">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="SNGEGT.csproj" Description="Project file successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\SNGEGT.csproj">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="SNGEGT.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\SNGEGT.csproj.user">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="BlindInfo.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\BlindInfo.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="Blinds.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\Blinds.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="Blinds.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\Blinds.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="BlindSaver.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\BlindSaver.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="BlindSelectionForm.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\BlindSelectionForm.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="BlindSelectionForm.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\BlindSelectionForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="calcRanges.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\calcRanges.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="Card.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\Card.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="Debug.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\Debug.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="FullTiltTable.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\FullTiltTable.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="ImageNet.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\ImageNet.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="kuvaform.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\kuvaform.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="kuvaform.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\kuvaform.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="PokerTable.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\PokerTable.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="HandHistoryForm.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\HandHistoryForm.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="HandHistoryForm.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\HandHistoryForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="HistoryReader.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\HistoryReader.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="ICM.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\ICM.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="OwnImage.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\OwnImage.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="PresetRangeForm.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\PresetRangeForm.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="PresetRangeForm.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\PresetRangeForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="RangeSelector.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\RangeSelector.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="RangeSelector.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\RangeSelector.Designer.cs">
+</Event><Event ErrorLevel="2" Project="SNGEGT" Source="Register.cs" Description="Failed to backup file as C:\Documents and Settings\miika\Desktop\stars\Backup\Register.cs">
+</Event><Event ErrorLevel="2" Project="SNGEGT" Source="Register.Designer.cs" Description="Failed to backup file as C:\Documents and Settings\miika\Desktop\stars\Backup\Register.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="StackToRangeForm.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\StackToRangeForm.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="StackToRangeForm.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\StackToRangeForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="StarsTable.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\StarsTable.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="TableData.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\TableData.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="partyTableFinder.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\partyTableFinder.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="partyTableReader.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\partyTableReader.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="Player.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\Player.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="SNGEGT.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\SNGEGT.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="SNGEGT.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\SNGEGT.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="Game.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\Game.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="Program.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\Program.cs">
+</Event><Event ErrorLevel="2" Project="SNGEGT" Source="Properties\AssemblyInfo.cs" Description="Failed to backup file as C:\Documents and Settings\miika\Desktop\stars\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="2" Project="SNGEGT" Source="Properties\Resources.Designer.cs" Description="Failed to backup file as C:\Documents and Settings\miika\Desktop\stars\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="2" Project="SNGEGT" Source="Properties\Settings.Designer.cs" Description="Failed to backup file as C:\Documents and Settings\miika\Desktop\stars\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="UpdateForm.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\UpdateForm.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="UpdateForm.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\UpdateForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="win32.cs" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\win32.cs">
+</Event><Event ErrorLevel="2" Project="SNGEGT" Source="Properties\Settings.settings" Description="Failed to backup file as C:\Documents and Settings\miika\Desktop\stars\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="SNGEGT.ico" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\SNGEGT.ico">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="Blinds.resx" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\Blinds.resx">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="BlindSelectionForm.resx" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\BlindSelectionForm.resx">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="HandHistoryForm.resx" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\HandHistoryForm.resx">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="kuvaform.resx" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\kuvaform.resx">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="PresetRangeForm.resx" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\PresetRangeForm.resx">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="RangeSelector.resx" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\RangeSelector.resx">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="Register.resx" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\Register.resx">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="SNGEGT.resx" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\SNGEGT.resx">
+</Event><Event ErrorLevel="2" Project="SNGEGT" Source="Properties\Resources.resx" Description="Failed to backup file as C:\Documents and Settings\miika\Desktop\stars\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="StackToRangeForm.resx" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\StackToRangeForm.resx">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="UpdateForm.resx" Description="File successfully backed up as C:\Documents and Settings\miika\Desktop\stars\Backup\UpdateForm.resx">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="SNGEGT.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SNGEGT" Source="SNGEGT.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="sngegt.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="sngegt.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SNGEGT" Source="SNGEGT.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,13 @@
+C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\SNG Quiz\bin\Debug\Player.resx
+C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\SNG Quiz\bin\Debug\Resources\poyta_rinki_valkoinen.GIF
+C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\SNG Quiz\bin\Debug\Resources\poyta_rinki_valkoinen1.GIF
+C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\SNG Quiz\bin\Debug\Resources\dealer.GIF
+C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\SNG Quiz\bin\Debug\SNG Quiz.exe
+C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\SNG Quiz\bin\Debug\SNG Quiz.pdb
+C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\SNG Quiz\obj\Debug\ResolveAssemblyReference.cache
+C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\SNG Quiz\obj\Debug\SNG_Quiz.SNGquiz.resources
+C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\SNG Quiz\obj\Debug\SNG_Quiz.Properties.Resources.resources
+C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\SNG Quiz\obj\Debug\GenerateResource.read.1.tlog
+C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\SNG Quiz\obj\Debug\GenerateResource.write.1.tlog
+C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\SNG Quiz\obj\Debug\SNG Quiz.exe
+C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\SNG Quiz\obj\Debug\SNG Quiz.pdb

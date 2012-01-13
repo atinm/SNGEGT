@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sites>
+  <Site name="PokerStars">
+    <GameStructure>
+      <Levels>
+        <Level>10/20</Level>
+        <Level>15/30</Level>
+        <Level>25/50</Level>
+        <Level>50/100</Level>
+        <Level>75/150</Level>
+        <Level>100/200</Level>
+        <Level>100/200+25</Level>
+        <Level>200/400+25</Level>
+        <Level>300/600+50</Level>
+        <Level>400/800+50</Level>
+        <Level>600/1200+75</Level>
+        <Level>800/1600+75</Level>
+        <Level>1000/2000+100</Level>
+        <Level>1500/3000+150</Level>
+        <Level>2000/4000+200</Level>
+        <Level>3000/6000+300</Level>
+        <Level>4000/8000+400</Level>
+        <Level>6000/12000+600</Level>
+        <Level>8000/16000+800</Level>
+        <Level>10000/20000+1000</Level>
+        <Level>15000/30000+1500</Level>
+        <Level>20000/40000+2000</Level>
+        <Level>25000/50000+2500</Level>
+        <Level>30000/60000+3000</Level>
+      </Levels>
+      <Awards>
+        <AwardStruct name="9 max" playercount="9">
+          <Award>50</Award>
+          <Award>30</Award>
+          <Award>20</Award>
+        </AwardStruct>
+        <AwardStruct name="6 max" playercount="6">
+          <Award>65</Award>
+          <Award>35</Award>
+        </AwardStruct>
+        <AwardStruct name="18 MTT" playercount="18">
+          <Award>40</Award>
+          <Award>30</Award>
+          <Award>20</Award>
+          <Award>10</Award>
+        </AwardStruct>
+        <AwardStruct name="45 MTT" playercount="45">
+          <Award>31</Award>
+          <Award>21.5</Award>
+          <Award>16.5</Award>
+          <Award>12.5</Award>
+          <Award>9</Award>
+          <Award>6</Award>
+          <Award>3.5</Award>
+        </AwardStruct>
+      </Awards>
+    </GameStructure>
+  </Site>
+  <Site name="Party">
+    <GameStructure>
+      <Levels>
+        <Level>20/40</Level>
+        <Level>30/60</Level>
+        <Level>50/100</Level>
+        <Level>100/200</Level>
+        <Level>200/400</Level>
+        <Level>300/600</Level>
+        <Level>400/800</Level>
+        <Level>600/1200+50</Level>
+        <Level>1000/2000+75</Level>
+        <Level>1500/3000+75</Level>
+      </Levels>
+      <Awards>
+        <AwardStruct name="10 max" playercount="10">
+          <Award>50</Award>
+          <Award>30</Award>
+          <Award>20</Award>
+        </AwardStruct>
+        <AwardStruct name="6 max" playercount="6">
+          <Award>60</Award>
+          <Award>40</Award>
+        </AwardStruct>
+      </Awards>
+    </GameStructure>
+  </Site>
+  <Site name="Party speed">
+    <GameStructure>
+      <Levels>
+        <Level>20/40</Level>
+        <Level>30/60</Level>
+        <Level>50/100</Level>
+        <Level>100/200</Level>
+        <Level>200/400</Level>
+        <Level>300/600</Level>
+        <Level>400/800+25</Level>
+        <Level>600/1200+50</Level>
+        <Level>1000/2000+75</Level>
+        <Level>1500/3000+75</Level>
+      </Levels>
+      <Awards>
+        <AwardStruct name="10 max" playercount="10">
+          <Award>50</Award>
+          <Award>30</Award>
+          <Award>20</Award>
+        </AwardStruct>
+        <AwardStruct name="6 max" playercount="6">
+          <Award>60</Award>
+          <Award>40</Award>
+        </AwardStruct>
+      </Awards>
+    </GameStructure>
+</Site>
+<Site name="Party Turbo">
+	<GameStructure>
+		<Levels>
+			<Level>20/40</Level>
+			<Level>30/60</Level>
+			<Level>50/100</Level>
+			<Level>100/200</Level>
+			<Level>150/300></Level>
+			<Level>200/400</Level>
+			<Level>300/600</Level>
+			<Level>400/800</Level>
+			<Level>600/1200</Level>
+			<Level>800/1600</Level>        
+		</Levels>
+		<Awards>
+			<AwardStruct name="10 max" playercount="10">
+				<Award>50</Award>
+				<Award>30</Award>
+				<Award>20</Award>
+			</AwardStruct>
+		</Awards>
+	</GameStructure>           
+</Site>
+  <Site name="FullTilt">
+    <GameStructure>
+      <Levels>
+        <Level>15/30</Level>
+        <Level>20/40</Level>
+        <Level>25/50</Level>
+        <Level>30/60</Level>
+        <Level>40/80</Level>
+        <Level>50/100</Level>
+        <Level>60/120</Level>
+        <Level>80/160</Level>
+        <Level>100/200</Level>
+        <Level>120/240</Level>
+        <Level>150/300</Level>
+        <Level>200/400</Level>
+        <Level>250/500</Level>
+        <Level>300/600</Level>
+        <Level>400/800</Level>
+        <Level>500/1000</Level>
+        <Level>600/1200</Level>
+        <Level>800/1600</Level>
+        <Level>1000/2000</Level>
+      </Levels>
+      <Awards>
+        <AwardStruct name="9 max" playercount="9">
+          <Award>50</Award>
+          <Award>30</Award>
+          <Award>20</Award>
+        </AwardStruct>
+        <AwardStruct name="6 max" playercount="6">
+          <Award>65</Award>
+          <Award>35</Award>
+        </AwardStruct>
+      </Awards>
+    </GameStructure>
+</Site>
+</Sites>

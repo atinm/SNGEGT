@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SNG Quiz">
+</Property><Property Name="Solution File" Value="C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\SNG Quiz.sln">
+</Property><Property Name="User Options File" Value="C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\SNG Quiz.suo">
+</Property><Property Name="Date" Value="Thursday, January 12, 2012">
+</Property><Property Name="Time" Value="16:48 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SNG Quiz.sln" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SNG Quiz.suo" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz.suo">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\SNG Quiz.csproj" Description="Project file successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\SNG Quiz.csproj">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\SNG Quiz.csproj.user" Description="Project user file successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\SNG Quiz.csproj.user">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\cards.cs" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\cards.cs">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\createGame.cs" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\createGame.cs">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\ICM.cs" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\ICM.cs">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\Player.cs" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\Player.cs">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\Player.Designer.cs" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\Player.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\singleGame.cs" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\singleGame.cs">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\SNGquiz.cs" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\SNGquiz.cs">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\SNGquiz.Designer.cs" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\SNGquiz.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\Program.cs" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\Program.cs">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\Player.resx" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\Player.resx">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\Properties\Settings.settings" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\bin\Debug\gametable.gif" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\bin\Debug\gametable.gif">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\Resources\poyta_rinki_valkoinen.GIF" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\Resources\poyta_rinki_valkoinen.GIF">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\Resources\poyta_rinki_valkoinen1.GIF" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\Resources\poyta_rinki_valkoinen1.GIF">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\Resources\dealer.GIF" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\Resources\dealer.GIF">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\quiz.ico" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\quiz.ico">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\SNGquiz.resx" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\SNGquiz.resx">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\Properties\Resources.resx" Description="File successfully backed up as C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\Backup\SNG Quiz\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\SNG Quiz.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SNG Quiz" Source="SNG Quiz\SNG Quiz.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SNG Quiz.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SNG Quiz.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SNG Quiz" Source="SNG Quiz\SNG Quiz.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
