@@ -3,3 +3,6 @@ Sit and Go End Game Tools (SNGEGT) is a powerful tool for calculating the correc
 Original codebase
 
 The version was open sourced (by the authors Tuomas and Miika) under GPL on July 7th 2008.
+
+NOTE:
+Real-time ICM calculators are not allowed at most online poker sites. Due to this, this version of SNGEGT disables the realtime features of the original SNGEGT program.
