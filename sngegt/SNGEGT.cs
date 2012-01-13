@@ -159,7 +159,7 @@ namespace SNGEGT
 #endif
 
             Text = "SNGEGT-GT";
-            tableTimer.Enabled = true;
+            tableTimer.Enabled = false;
 
 #if (DEBUGOMA)
             Text = "SNGEGT-Debug";
@@ -234,28 +234,6 @@ namespace SNGEGT
 
             graphBitmap = new Bitmap(graphImage.Width, graphImage.Height);
             fillingform = false;
-
-            if (System.Windows.Forms.Screen.PrimaryScreen.BitsPerPixel < 32)
-            {
-                MessageBox.Show("You don't have 32 bit colors enabled. Realtime features does not work without this.\n\n If you need assistance how to enable 32 bit colors please send e-mail to sngegt@gmail.com", "Color depth error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-            }
-
-
-            System.OperatingSystem opsys = System.Environment.OSVersion;
-
-            WindowsIdentity id = WindowsIdentity.GetCurrent();
-            WindowsPrincipal p = new WindowsPrincipal(id);
-            
-
-            if ( opsys.Platform == PlatformID.Win32NT)
-            {                
-                
-                if (opsys.Version.Major == 6 && !p.IsInRole(WindowsBuiltInRole.Administrator))
-                {
-                MessageBox.Show("Realtime features requires administrator priviledges on Windows Vista.\n\n If you need assistance how to run SNGEGT as administrator please send e-mail to sngegt@gmail.com", "Access rights error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                }
-            }
-
         }
 
 
