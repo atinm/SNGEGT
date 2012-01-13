@@ -21,7 +21,6 @@ namespace HeadsUp_Trainer
         private static readonly int HUMANWONALLIN = 5;
 
 
-        private cardsdll card;
         private Game game;
         private GameData data;        
         private Bitmap[] cards;
@@ -31,7 +30,6 @@ namespace HeadsUp_Trainer
 
         public Heads_Up_Trainer()
         {
-            card = new cardsdll(60, 80);
             game = new Game();
             data = new GameData();
 
@@ -585,7 +583,7 @@ namespace HeadsUp_Trainer
 
                 for (int i = 0; i < 52; i++)
                 {
-                    card.drawCard(pictureBox1, i, (int)cardsdll.mdFaceUp, 16777215);
+                    Cards.drawCard(pictureBox1, i, Cards.mdFaceUp);
                     cards[i] = new Bitmap(pictureBox1.Image);
                     if (i / 13 == 0) // club
                     {
@@ -620,7 +618,7 @@ namespace HeadsUp_Trainer
                     }
                 }
             }
-            card.drawCardBack(pictureBox1);
+            Cards.drawCardBack(pictureBox1);
             cards[52] = new Bitmap(pictureBox1.Image);
             pictureBox1.Visible = false;
         }

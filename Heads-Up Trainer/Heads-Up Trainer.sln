@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual C# Express 2005
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heads-Up Trainer", "Heads-Up Trainer\Heads-Up Trainer.csproj", "{A8CBCC41-16AF-4814-AA21-3B9165DDC3D0}"
 EndProject
 Global

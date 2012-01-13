@@ -407,8 +407,8 @@
             this.dataGridViewResults.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridViewResults.Size = new System.Drawing.Size(163, 162);
             this.dataGridViewResults.TabIndex = 23;
-            this.dataGridViewResults.RowEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewResults_RowEnter);
             this.dataGridViewResults.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewResults_CellContentClick);
+            this.dataGridViewResults.RowEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewResults_RowEnter);
             // 
             // Hand
             // 
@@ -494,6 +494,7 @@
             this.myCard1.Location = new System.Drawing.Point(564, 344);
             this.myCard1.Name = "myCard1";
             this.myCard1.Size = new System.Drawing.Size(73, 95);
+            this.myCard1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.myCard1.TabIndex = 32;
             this.myCard1.TabStop = false;
             // 
@@ -503,6 +504,7 @@
             this.myCard2.Location = new System.Drawing.Point(576, 353);
             this.myCard2.Name = "myCard2";
             this.myCard2.Size = new System.Drawing.Size(73, 95);
+            this.myCard2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.myCard2.TabIndex = 33;
             this.myCard2.TabStop = false;
             // 
@@ -512,6 +514,7 @@
             this.player4card2.Location = new System.Drawing.Point(319, 254);
             this.player4card2.Name = "player4card2";
             this.player4card2.Size = new System.Drawing.Size(15, 20);
+            this.player4card2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.player4card2.TabIndex = 35;
             this.player4card2.TabStop = false;
             // 
@@ -521,6 +524,7 @@
             this.player4card1.Location = new System.Drawing.Point(315, 249);
             this.player4card1.Name = "player4card1";
             this.player4card1.Size = new System.Drawing.Size(15, 20);
+            this.player4card1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.player4card1.TabIndex = 34;
             this.player4card1.TabStop = false;
             // 
@@ -530,6 +534,7 @@
             this.player1card2.Location = new System.Drawing.Point(552, 107);
             this.player1card2.Name = "player1card2";
             this.player1card2.Size = new System.Drawing.Size(15, 20);
+            this.player1card2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.player1card2.TabIndex = 37;
             this.player1card2.TabStop = false;
             // 
@@ -539,6 +544,7 @@
             this.player1card1.Location = new System.Drawing.Point(548, 102);
             this.player1card1.Name = "player1card1";
             this.player1card1.Size = new System.Drawing.Size(15, 20);
+            this.player1card1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.player1card1.TabIndex = 36;
             this.player1card1.TabStop = false;
             // 
@@ -548,6 +554,7 @@
             this.player2card2.Location = new System.Drawing.Point(704, 254);
             this.player2card2.Name = "player2card2";
             this.player2card2.Size = new System.Drawing.Size(15, 20);
+            this.player2card2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.player2card2.TabIndex = 39;
             this.player2card2.TabStop = false;
             // 
@@ -557,6 +564,7 @@
             this.player2card1.Location = new System.Drawing.Point(700, 249);
             this.player2card1.Name = "player2card1";
             this.player2card1.Size = new System.Drawing.Size(15, 20);
+            this.player2card1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.player2card1.TabIndex = 38;
             this.player2card1.TabStop = false;
             // 
@@ -585,13 +593,13 @@
             // 
             this.player3.BackColor = System.Drawing.Color.Transparent;
             this.player3.BetPos = new System.Drawing.Point(22, 12);
-            this.player3.Bets = 20000;
+            this.player3.Bets = 20000D;
             this.player3.Dealer = true;
             this.player3.DealerPos = new System.Drawing.Point(0, 12);
             this.player3.InfoboxPos = new System.Drawing.Point(0, 52);
             this.player3.Location = new System.Drawing.Point(473, 344);
             this.player3.Name = "player3";
-            this.player3.Range = 50;
+            this.player3.Range = 50D;
             this.player3.Size = new System.Drawing.Size(200, 114);
             this.player3.Stack = "";
             this.player3.TabIndex = 31;
@@ -603,13 +611,13 @@
             // 
             this.player1.BackColor = System.Drawing.Color.Transparent;
             this.player1.BetPos = new System.Drawing.Point(22, 70);
-            this.player1.Bets = 20000;
+            this.player1.Bets = 20000D;
             this.player1.Dealer = true;
             this.player1.DealerPos = new System.Drawing.Point(0, 70);
             this.player1.InfoboxPos = new System.Drawing.Point(0, 0);
             this.player1.Location = new System.Drawing.Point(473, 30);
             this.player1.Name = "player1";
-            this.player1.Range = 50;
+            this.player1.Range = 50D;
             this.player1.Size = new System.Drawing.Size(200, 120);
             this.player1.Stack = "";
             this.player1.TabIndex = 30;
@@ -622,13 +630,13 @@
             // 
             this.player2.BackColor = System.Drawing.Color.Transparent;
             this.player2.BetPos = new System.Drawing.Point(20, 67);
-            this.player2.Bets = 20000;
+            this.player2.Bets = 20000D;
             this.player2.Dealer = true;
             this.player2.DealerPos = new System.Drawing.Point(30, 45);
             this.player2.InfoboxPos = new System.Drawing.Point(82, 47);
             this.player2.Location = new System.Drawing.Point(655, 158);
             this.player2.Name = "player2";
-            this.player2.Range = 50;
+            this.player2.Range = 50D;
             this.player2.Size = new System.Drawing.Size(170, 130);
             this.player2.Stack = "";
             this.player2.TabIndex = 29;
@@ -640,13 +648,13 @@
             // 
             this.player4.BackColor = System.Drawing.Color.Transparent;
             this.player4.BetPos = new System.Drawing.Point(96, 22);
-            this.player4.Bets = 20000;
+            this.player4.Bets = 20000D;
             this.player4.Dealer = true;
             this.player4.DealerPos = new System.Drawing.Point(100, 0);
             this.player4.InfoboxPos = new System.Drawing.Point(0, 0);
             this.player4.Location = new System.Drawing.Point(213, 206);
             this.player4.Name = "player4";
-            this.player4.Range = 50;
+            this.player4.Range = 50D;
             this.player4.Size = new System.Drawing.Size(174, 77);
             this.player4.Stack = "";
             this.player4.TabIndex = 28;

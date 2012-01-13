@@ -1,4 +1,5 @@
-﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
@@ -12,6 +13,12 @@
     <StartupObject>
     </StartupObject>
     <ApplicationIcon>kala.ico</ApplicationIcon>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <ApplicationRevision>0</ApplicationRevision>
+    <UpgradeBackupLocation />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -94,6 +101,59 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="kala.ico" />
+    <Content Include="Resources\cardSkin.bmp" />
+    <Content Include="Resources\cl10.bmp" />
+    <Content Include="Resources\cl2.bmp" />
+    <Content Include="Resources\cl3.bmp" />
+    <Content Include="Resources\cl4.bmp" />
+    <Content Include="Resources\cl5.bmp" />
+    <Content Include="Resources\cl6.bmp" />
+    <Content Include="Resources\cl7.bmp" />
+    <Content Include="Resources\cl8.bmp" />
+    <Content Include="Resources\cl9.bmp" />
+    <Content Include="Resources\cla.bmp" />
+    <Content Include="Resources\clj.bmp" />
+    <Content Include="Resources\clk.bmp" />
+    <Content Include="Resources\clq.bmp" />
+    <Content Include="Resources\di10.bmp" />
+    <Content Include="Resources\di2.bmp" />
+    <Content Include="Resources\di3.bmp" />
+    <Content Include="Resources\di4.bmp" />
+    <Content Include="Resources\di5.bmp" />
+    <Content Include="Resources\di6.bmp" />
+    <Content Include="Resources\di7.bmp" />
+    <Content Include="Resources\di8.bmp" />
+    <Content Include="Resources\di9.bmp" />
+    <Content Include="Resources\dia.bmp" />
+    <Content Include="Resources\dij.bmp" />
+    <Content Include="Resources\dik.bmp" />
+    <Content Include="Resources\diq.bmp" />
+    <Content Include="Resources\he10.bmp" />
+    <Content Include="Resources\he2.bmp" />
+    <Content Include="Resources\he3.bmp" />
+    <Content Include="Resources\he4.bmp" />
+    <Content Include="Resources\he5.bmp" />
+    <Content Include="Resources\he6.bmp" />
+    <Content Include="Resources\he7.bmp" />
+    <Content Include="Resources\he8.bmp" />
+    <Content Include="Resources\he9.bmp" />
+    <Content Include="Resources\hea.bmp" />
+    <Content Include="Resources\hej.bmp" />
+    <Content Include="Resources\hek.bmp" />
+    <Content Include="Resources\heq.bmp" />
+    <Content Include="Resources\sp10.bmp" />
+    <Content Include="Resources\sp2.bmp" />
+    <Content Include="Resources\sp3.bmp" />
+    <Content Include="Resources\sp4.bmp" />
+    <Content Include="Resources\sp5.bmp" />
+    <Content Include="Resources\sp6.bmp" />
+    <Content Include="Resources\sp7.bmp" />
+    <Content Include="Resources\sp8.bmp" />
+    <Content Include="Resources\sp9.bmp" />
+    <Content Include="Resources\spa.bmp" />
+    <Content Include="Resources\spj.bmp" />
+    <Content Include="Resources\spk.bmp" />
+    <Content Include="Resources\spq.bmp" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

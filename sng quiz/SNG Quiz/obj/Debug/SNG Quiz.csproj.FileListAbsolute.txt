@@ -11,3 +11,4 @@ C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\SNG Quiz\obj
 C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\SNG Quiz\obj\Debug\GenerateResource.write.1.tlog
 C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\SNG Quiz\obj\Debug\SNG Quiz.exe
 C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\SNG Quiz\obj\Debug\SNG Quiz.pdb
+C:\cygwin\home\atinm\src\sngegt-20080919\sngegt-os\sources\sng quiz\SNG Quiz\bin\Debug\SNG Quiz.exe.config

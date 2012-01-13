@@ -17,8 +17,6 @@ namespace SNG_Quiz
         private Image bmp;
         private bool updatingForms;
         private createGame calcNewGame;
-        private cardsdll myCardDll;
-        private cardsdll oppCardDll;
         private singleGame[] games;
         private bool[] decisions;
         private int currentGameNum;
@@ -41,8 +39,8 @@ namespace SNG_Quiz
                     players[num - 1].showCards(true);
                     if (num != 3)
                     {
-                        oppCardDll.drawCardBack(players[num - 1].card1);
-                        oppCardDll.drawCardBack(players[num - 1].card2);
+                        Cards.drawCardBack(players[num - 1].card1);
+                        Cards.drawCardBack(players[num - 1].card2);
                     }
                 }
                 else
@@ -58,8 +56,8 @@ namespace SNG_Quiz
 
         public SNGquiz()
         {
-            myCardDll  = new cardsdll(60, 80);
-            oppCardDll = new cardsdll(15, 20);
+            //myCardDll  = new cardsdll(60, 80);
+            //oppCardDll = new cardsdll(15, 20);
             updatingForms = true;
             InitializeComponent();
             setInitialForms();
@@ -492,8 +490,8 @@ namespace SNG_Quiz
                 }
 
             // näytetään omat kortit aina
-            myCardDll.drawCard(myCard1, game.myHand[0], (int)cardsdll.mdFaceUp, 16777215);
-            myCardDll.drawCard(myCard2, game.myHand[1], (int)cardsdll.mdFaceUp, 16777215);
+            Cards.drawCard(myCard1, game.myHand[0], Cards.mdFaceUp);
+            Cards.drawCard(myCard2, game.myHand[1], Cards.mdFaceUp);
         }
 
         
