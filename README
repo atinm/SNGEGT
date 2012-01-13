@@ -1,0 +1,5 @@
+Sit and Go End Game Tools (SNGEGT) is a powerful tool for calculating the correct plays in the later stages of sit and go tournaments. Because these decisions are so easy to quantify and so important to your win rate it, is important to master them if you want to become a serious winner. With this revolutionary tool you can get advice while you play with our Real Time analyzer (Standard and GT versions) or go back over decisions later to find the holes in your game and plug them forever. SNGEGT uses an ICM calculator as it's core but automates the processes for you so that you don't have to be a math wizard or spend hours with a notebook to find out that what the correct play was.
+
+Original codebase
+
+The version was open sourced (by the authors Tuomas and Miika) under GPL on July 7th 2008.
