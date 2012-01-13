@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("SNG Quiz")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Haapamäen Paskakuskit Ky")]
+[assembly: AssemblyCompany("sngegt (http://code.google.com/p/sngegt)")]
 [assembly: AssemblyProduct("SNG Quiz")]
-[assembly: AssemblyCopyright("Copyright © Haapamäen Paskakuskit Ky 2007")]
+[assembly: AssemblyCopyright("Copyright © Haapamäen Paskakuskit Ky 2007, atinm.dev@gmail.com 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -29,5 +29,5 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("2.0.0.0")]
+[assembly: AssemblyFileVersion("2.0.0.0")]

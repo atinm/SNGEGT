@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Heads-Up Trainer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("FBT")]
+[assembly: AssemblyCompany("sngegt (http://code.google.com/p/sngegt)")]
 [assembly: AssemblyProduct("Heads-Up Trainer")]
-[assembly: AssemblyCopyright("Copyright © FBT 2007")]
+[assembly: AssemblyCopyright("Copyright © FBT 2007, atinm.dev@gmail.com 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -29,5 +29,5 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("2.0.0.0")]
+[assembly: AssemblyFileVersion("2.0.0.0")]
